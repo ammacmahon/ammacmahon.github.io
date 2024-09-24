@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Anthony MacMahon</title>
-    <link>https://sanspulp.github.io/posts/</link>
+    <link>https://ammacmahon.github.io/posts/</link>
     <description>Recent content in Posts on Anthony MacMahon</description>
     <image>
       <title>Anthony MacMahon</title>
-      <url>https://sanspulp.github.io/images/papermod-cover.png</url>
-      <link>https://sanspulp.github.io/images/papermod-cover.png</link>
+      <url>https://ammacmahon.github.io/images/papermod-cover.png</url>
+      <link>https://ammacmahon.github.io/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.133.1</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Sep 2024 21:16:22 -0400</lastBuildDate>
-    <atom:link href="https://sanspulp.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ammacmahon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Failure of Opinion Polling</title>
-      <link>https://sanspulp.github.io/posts/polling/</link>
+      <link>https://ammacmahon.github.io/posts/polling/</link>
       <pubDate>Tue, 10 Sep 2024 21:16:22 -0400</pubDate>
-      <guid>https://sanspulp.github.io/posts/polling/</guid>
+      <guid>https://ammacmahon.github.io/posts/polling/</guid>
       <description>Jamelle Bouie posted on BlueSky about issue polling being the worst thing that has happened to progressives. When Jamelle posts something, a lot of people inevitably get mad, so I’m not sure if the post is still up. But he followed it up with the idea that progressives look at issue polls, see that people generally agree with them on a given poll, and commit to mobilization strategy rather than persuasion and coalition building.</description>
     </item>
     <item>
       <title>What is a left-wing party?</title>
-      <link>https://sanspulp.github.io/posts/secondpost/</link>
+      <link>https://ammacmahon.github.io/posts/secondpost/</link>
       <pubDate>Wed, 04 Sep 2024 14:20:09 -0400</pubDate>
-      <guid>https://sanspulp.github.io/posts/secondpost/</guid>
+      <guid>https://ammacmahon.github.io/posts/secondpost/</guid>
       <description>I’ve been reading some posts by David Moscrop, who I greatly admire, as well as Edward Row, who I also really like, discussing who exactly is left and right in Canadian electoral politics.
 David argues that the Liberal Party of Canada can’t be meaningfully seen as left-wing, with his examples forcing railroad workers to arbitration and demanding public servants go back to work. Edward argued that the NDP can’t be seen as a left-wing or socialist party, because in 2013 they removed the word socialism from their constitution.</description>
     </item>
     <item>
       <title>Pretextual Planning</title>
-      <link>https://sanspulp.github.io/posts/mypost/</link>
+      <link>https://ammacmahon.github.io/posts/mypost/</link>
       <pubDate>Mon, 02 Sep 2024 19:46:35 -0400</pubDate>
-      <guid>https://sanspulp.github.io/posts/mypost/</guid>
+      <guid>https://ammacmahon.github.io/posts/mypost/</guid>
       <description>Sean Galbraith and Strong Towns have both talked about pretextual planning. Pretextual planning is fairly self explanatory - a city (or other level of government, or maybe a private business or NGO) creates a plan, and elements of that plan are a pretext for doing something else.
 The strong towns argument brings up parking requirements, which are a horrible policy idea that forces developers to build expensive parking, despite small and midsized cities having a massive parking surplus, and large cities trying to redevelop parking into higher order uses like housing, public amenities, and employment sites.</description>
     </item>

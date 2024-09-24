@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://sanspulp.github.io/sitemap.xml
+Sitemap: https://ammacmahon.github.io/sitemap.xml
