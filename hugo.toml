@@ -69,7 +69,7 @@ images = [ "images/papermod-cover.png" ]
 
   [params.homeInfoParams]
   Content = """
-  ![Image by Colin Palangio](https://github.com/ammacmahon/ammacmahon.github.io/blob/main/assets/css/BlogProfilePic.jpg?raw=true)
+  ![Image by Colin Palangio](https://github.com/ammacmahon/ammacmahon.github.io/blob/main/assets/BlogProfilePic.jpg?raw=true)
 -  Congratulations on finding my website. It exists.
 -
 - I'm a Toronto-based writer and policy professional.
