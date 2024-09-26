@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ammacmahon.github.io/sitemap.xml

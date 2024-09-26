@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Policy on Anthony MacMahon</title>
+    <link>https://sanspulp.github.io/tags/policy/</link>
+    <description>Recent content in Policy on Anthony MacMahon</description>
+    <image>
+      <title>Anthony MacMahon</title>
+      <url>https://sanspulp.github.io/images/papermod-cover.png</url>
+      <link>https://sanspulp.github.io/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Sep 2024 13:36:39 -0400</lastBuildDate>
+    <atom:link href="https://sanspulp.github.io/tags/policy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arts Training in Canada</title>
+      <link>https://sanspulp.github.io/posts/textpost/</link>
+      <pubDate>Tue, 24 Sep 2024 13:36:39 -0400</pubDate>
+      <guid>https://sanspulp.github.io/posts/textpost/</guid>
+      <description>Michael Rubenfeld posted recently about arts training in Canada, and about money in the arts.</description>
+    </item>
+    <item>
+      <title>Pretextual Planning</title>
+      <link>https://sanspulp.github.io/posts/mypost/</link>
+      <pubDate>Mon, 02 Sep 2024 19:46:35 -0400</pubDate>
+      <guid>https://sanspulp.github.io/posts/mypost/</guid>
+      <description>Sean Galbraith and Strong Towns have both talked about pretextual planning. Pretextual planning is fairly self explanatory - a city (or other level of government, or maybe a private business or NGO) creates a plan, and elements of that plan are a pretext for doing something else.
+The strong towns argument brings up parking requirements, which are a horrible policy idea that forces developers to build expensive parking, despite small and midsized cities having a massive parking surplus, and large cities trying to redevelop parking into higher order uses like housing, public amenities, and employment sites.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Anthony MacMahon</title>
+    <link>https://ammacmahon.github.io/tags/</link>
+    <description>Recent content in Tags on Anthony MacMahon</description>
+    <image>
+      <title>Anthony MacMahon</title>
+      <url>https://ammacmahon.github.io/images/papermod-cover.png</url>
+      <link>https://ammacmahon.github.io/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Sep 2024 13:38:38 -0400</lastBuildDate>
+    <atom:link href="https://ammacmahon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Policy</title>
+      <link>https://ammacmahon.github.io/tags/policy/</link>
+      <pubDate>Thu, 26 Sep 2024 13:38:38 -0400</pubDate>
+      <guid>https://ammacmahon.github.io/tags/policy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Theatre</title>
+      <link>https://ammacmahon.github.io/tags/theatre/</link>
+      <pubDate>Thu, 26 Sep 2024 13:38:38 -0400</pubDate>
+      <guid>https://ammacmahon.github.io/tags/theatre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Politics</title>
+      <link>https://ammacmahon.github.io/tags/politics/</link>
+      <pubDate>Tue, 10 Sep 2024 21:16:22 -0400</pubDate>
+      <guid>https://ammacmahon.github.io/tags/politics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Housing</title>
+      <link>https://ammacmahon.github.io/tags/housing/</link>
+      <pubDate>Mon, 02 Sep 2024 19:46:35 -0400</pubDate>
+      <guid>https://ammacmahon.github.io/tags/housing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Planning</title>
+      <link>https://ammacmahon.github.io/tags/planning/</link>
+      <pubDate>Mon, 02 Sep 2024 19:46:35 -0400</pubDate>
+      <guid>https://ammacmahon.github.io/tags/planning/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
