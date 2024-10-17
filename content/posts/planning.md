@@ -44,7 +44,7 @@ I’m going to look at two main theories of the crisis - the one that Gord is ar
 
 The theory that Gord broadly defines as “market urbanist” is a neoclassical economic theory. The main claim is that housing prices are determined by supply and demand, with the price being determined at the level where supply and demand curves meet. Housing supply is too low, which means that demand exceeds supply, raising the price. That’s illustrated by the following graph: S is the previous state of supply, S1 is the current state of supply. As the supply curve moves to the left - decreasing relative to demand - P shifts upward to P1.
 
-![Supply decrease](https://github.com/ammacmahon/ammacmahon.github.io/blob/main/assets/supplydecrease.png?raw=true)
+![Supply decrease](https://github.com/ammacmahon/ammacmahon.github.io/blob/main/assets/supplydecrease.jpg?raw=true)
 
 I’ll note that supply of apartments isn’t necessarily decreasing - apartments in Toronto are clearly being built![^2]  But supply is decreasing relative to demand. You could also say the demand curve is moving to the right, with increased immigration and smaller household formation requiring more units and other things, but what really matters is the argument that we’re not building enough housing to meet the demand.
 
@@ -95,7 +95,7 @@ And on general inequality, it’s important to note that the much less egalitari
 
 ![Canadian Housing Prices versus incomes](https://github.com/ammacmahon/ammacmahon.github.io/blob/main/assets/Canada.jpg?raw=true)
 ![American and British Prices versus incomes](https://github.com/ammacmahon/ammacmahon.github.io/blob/main/assets/USA&UK.jpg?raw=true)
-![Inequality in Canada vs United States](https://github.com/ammacmahon/ammacmahon.github.io/blob/main/assets/inequality.webp?raw=true)
+![Inequality in Canada vs United States](https://github.com/ammacmahon/ammacmahon.github.io/blob/main/assets/inequality.jpg?raw=true)
 
 
 About social housing being the solution, I think Gord is directionally correct. Deeply affordable housing is almost never provided by the private sector, except in forms like tenements, favelas, and other substandard housing. Publicly subsidized housing is a form of redistribution and a key element of the welfare state for those who are nowhere near being able to afford market rate housing. However, there’s a kind of conflation in terms going on here. Gord claims that no one has ever solved housing affordability through the private market. If we take that to mean deeply affordable housing for the lowest income in society, Gord is correct - that is almost always provided by government, or heavily subsidized by government. However, if we take housing affordability as a metric of median incomes versus median house prices, that is almost always addressed through the private market. Even one of his examples - Stockholm - has a robust private market, with 80% of Swedes in some form of private housing (whether that’s purely private, cooperative, union owned, or non profit), while 20% live in public housing. Canada used to have more publicly built and subsidized housing, but it also used to build more private housing, and the ratio of public housing never exceeded 10% of the total stock.
